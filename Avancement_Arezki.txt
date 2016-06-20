@@ -1,0 +1,15 @@
+03/02/2015:
+Index.php==> Page d'authentification, cette page dispose d'un lien pour s'incrire et d'un lien pour mot de passe oublié.
+	Les variables de session commencerons ici, je me suis fais une base de donnée de test en attendant la vrai base. 
+(je vous donnerez un bout de code que vous devrez coller dans vos page, pour qu'elles ne soient pas accessible si non connecté).
+
+Acceuil.php==> c'est la page où est redirigé l'utilisateur pour l'instant... une fois vos pages terminer et avec la base de données il
+suffira d'une requête pour savoir si on le redirige vers la page administrateur ou utilisateur, si vous voulez garder une page d'acceuil
+merci de me le faire savoir.
+
+Inscription.php==> c'est la page où il y a le formulaire d'inscription comme dans la frame faite par Ludwig... rien de très spécial à dire dessus.
+
+recup_inscription.php==> il s'agit de la page de traitement, il n'y a sur celle ci aucun objet graphique, elle sert juste à traiter les
+données renvoyé par le formulaire, j'ai une requête d'envoi dans la base de données faite il me manquera les vrai noms des champs
+et les id de connexion à la base
+
